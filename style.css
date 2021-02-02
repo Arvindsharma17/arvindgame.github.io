@@ -1,0 +1,28 @@
+.main-div{
+    width: 100;
+    height: 100vh;
+     font-family: cursive;
+    background-image: url("cricket1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin: auto;
+}
+
+.game{
+    width: 35%;
+    margin: auto;
+    background-color: black;
+    opacity: 80%;
+    box-shadow: 1rem 1rem 1rem -0.7rem skyblue;
+}
+h2{
+    text-align: center;
+    color: rgb(231, 247, 10);
+    text-shadow: 2px 2px 4px black;
+}
+table{
+    outline-style: none;
+}
+td:hover{
+    background-color: slategrey;
+}
